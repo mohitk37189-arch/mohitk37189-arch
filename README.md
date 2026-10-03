@@ -1,3 +1,4 @@
+![Mohit Kumar - Web Developer](./wide_dark_modern_tech_themed_banner_portfolio_he.png)
 # Hi 👋, I'm Mohit Kumar
 
 ### Web Developer
