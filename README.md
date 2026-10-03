@@ -1,4 +1,4 @@
-
+![Mohit Kumar - Web Developer](./c56c93c8-a5dc-46a2-89be-b8788db7d175.png)
 
 # Hi 👋, I'm Mohit Kumar
 
