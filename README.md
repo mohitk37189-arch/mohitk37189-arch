@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Mohit Kumar
 
-<!--
-**mohitk37189-arch/mohitk37189-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer
 
-Here are some ideas to get you started:
+I am an entry-level Web Developer interested in building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Web Developer
+- 🌱 Currently improving my full-stack development skills
+- 🛒 Built a full-stack grocery e-commerce website
+- 🔧 Interested in React.js, Node.js, Express.js and MongoDB
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • Bootstrap • JavaScript • React.js
+
+### Backend
+Node.js • Express.js • REST APIs
+
+### Database
+MongoDB
+
+### Tools
+Git • GitHub • VS Code • Vercel • Render
+
+## 📌 Featured Project
+
+### 🛒 Fresh Mart – Grocery E-Commerce Website
+
+A full-stack grocery shopping website built with React.js, Node.js, Express.js and MongoDB.
+
+**Features:**
+- 🔐 User Login & Signup
+- 📧 OTP / Forgot Password
+- 🔎 Product Search
+- 🥦 Product Categories
+- 🛒 Shopping Cart
+- 📍 Location Selection
+- 💳 Razorpay Payment Integration
+- 📱 Responsive Design
+
+### 🌐 Live Website
+https://ecommerce-website-seven-cyan.vercel.app/
+
+### 💻 GitHub
+https://github.com/mohitk37189-arch
+
+## 📫 Connect With Me
+
+### LinkedIn
+https://www.linkedin.com/in/mohit-kumar602
